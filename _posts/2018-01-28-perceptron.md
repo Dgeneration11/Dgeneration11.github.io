@@ -1,7 +1,7 @@
 ---
 title: "Covid-19 Live Tracking Project"
 date: 2020-05-02
-tags: [data wrangling, data science, messy data]
+tags: [Data Wrangling, Data Science, COVID-19, Data vizualization]
 header:
   image: "/images/perceptron/percept.jpg"
 excerpt: "Data Wrangling, Data Science, COVID-19, Data vizualization"
